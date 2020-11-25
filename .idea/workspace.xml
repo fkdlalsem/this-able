@@ -25,6 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,6 +43,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1kgrTjKTXy1HzN0p21d9C6ucaWN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -43,6 +54,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager">
+    <configuration name="carrer_data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="carrer_data" />
+      <module name="this-able" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.carrer_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d38de6ca-bb13-41c0-be06-d66b0dcd0971" name="Default Changelist" comment="" />
@@ -63,5 +89,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom" timestamp="1606293970828">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1606293970828" />
+    <state width="1663" height="277" key="GridCell.Tab.0.center" timestamp="1606293970828">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1606293970828" />
+    <state width="1663" height="277" key="GridCell.Tab.0.left" timestamp="1606293970828">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1606293970828" />
+    <state width="1663" height="277" key="GridCell.Tab.0.right" timestamp="1606293970828">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="277" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1606293970828" />
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup" timestamp="1606276353659">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="516" y="222" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1606276353659" />
   </component>
 </project>
