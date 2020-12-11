@@ -15,7 +15,7 @@ public class csv_file {
         try {
             // csv 데이타 파일
             //File csv = new File("C:\Users\82105\eclipse-workspace\this_able\");
-            File csv = new File("./2.csv");
+            File csv = new File("C:\\Users\\82105\\eclipse-workspace\\this_able\\src\\this_able\\5.csv");
             BufferedReader br = new BufferedReader(new FileReader(csv));
             String line = "";
  
@@ -24,7 +24,6 @@ public class csv_file {
                 token = line.split(",", -1);
                 for(i=0;i<8;i++) {
                 	indat[row][i] = token[i];
-                	
                 }
                 row++;
             }
@@ -38,7 +37,8 @@ public class csv_file {
         catch (IOException e) {
             e.printStackTrace();
         }
-    }        
+    }
+   
  
 }
 
