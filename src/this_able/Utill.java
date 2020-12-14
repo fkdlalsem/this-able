@@ -45,7 +45,7 @@ public class Utill {
 				}
 				else if(answer == 3) {
 					Utill.clearConsole();
-					System.out.println("나에게 맞지 않는 직업은 제거, 나에게 상관없는직업은 0점, 나에게 딱맞는 직업은 1점더해서 총점수가 높은 직업부터 정렬하여 보여줍니다 ㅎㅎ");
+					System.out.println("나의 장애에 맞지 않는 직업은 제거, 나의 장애에 상관없는직업은 0점, 직업의 필수로있어야하는 신체나 정신은 있으면 1점더해서 총점수가 높은 직업부터 정렬하여 보여줍니다 ㅎㅎ" + "(나의 신체정보에 따름)");
 				}
 				else if(answer == 4) {
 					Utill.clearConsole();
